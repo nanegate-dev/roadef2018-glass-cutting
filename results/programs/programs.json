@@ -1,0 +1,58 @@
+[
+ {
+  "file": "c00_start.cpp",
+  "cycle": 0,
+  "candidate": "the stage-4 champion (stage 5's starting program)",
+  "tree_hash": "sha256:ec62e639d82318ebbbb95f57c63310758067fc6654877132e6fad84d99fd4dfd",
+  "promoted_with_mean_loss": 32400928.4,
+  "seeds_per_instance": 5
+ },
+ {
+  "file": "c03_cand_01M3TJ3V3VJK7ZX7E6GF3RCYWG.cpp",
+  "cycle": 3,
+  "candidate": "cand_01M3TJ3V3VJK7ZX7E6GF3RCYWG",
+  "tree_hash": "sha256:b228edc482782f84fc0e0866a4399508d942c3910eec4c841747cba4a51fcae9",
+  "promoted_with_mean_loss": 31937361.6,
+  "seeds_per_instance": 5
+ },
+ {
+  "file": "c07_cand_01M3V5TY6HQQV31ESX2HKGH3YN.cpp",
+  "cycle": 7,
+  "candidate": "cand_01M3V5TY6HQQV31ESX2HKGH3YN",
+  "tree_hash": "sha256:4ef2e454d03f70ab464a003f6e8f78c008a33d76a2b0642e2ddcded4791b8f49",
+  "promoted_with_mean_loss": 31112990.8,
+  "seeds_per_instance": 5
+ },
+ {
+  "file": "c23_cand_01M3YAT8DR517FYXC6V26DEVCF.cpp",
+  "cycle": 23,
+  "candidate": "cand_01M3YAT8DR517FYXC6V26DEVCF",
+  "tree_hash": "sha256:c02c4eefaa42737ff063c002083ad99f6fbb9aa2060934884bed2129bacdfb04",
+  "promoted_with_mean_loss": 29327332.0,
+  "seeds_per_instance": 5
+ },
+ {
+  "file": "c25_cand_01M3YT32ZETEC0SSNMST74X034.cpp",
+  "cycle": 25,
+  "candidate": "cand_01M3YT32ZETEC0SSNMST74X034",
+  "tree_hash": "sha256:3d3b9ad20cd833f6a27ddef4a7c7c141f1220872a489c0f33b4d0ba3d6319d08",
+  "promoted_with_mean_loss": 29289197.2,
+  "seeds_per_instance": 15
+ },
+ {
+  "file": "c31_cand_01M3ZS4CQ9YY7MXZ257TZYGPP5.cpp",
+  "cycle": 31,
+  "candidate": "cand_01M3ZS4CQ9YY7MXZ257TZYGPP5",
+  "tree_hash": "sha256:087b1e6cbcdf60d4065817d6974ca8be1bfafdbe65c541814ba560f884e86363",
+  "promoted_with_mean_loss": 28971064.8,
+  "seeds_per_instance": 5
+ },
+ {
+  "file": "c51_cand_01M4415D3MRPZCN64T8EKWJJWE.cpp",
+  "cycle": 51,
+  "candidate": "cand_01M4415D3MRPZCN64T8EKWJJWE",
+  "tree_hash": "sha256:94b69e40cfa93188a6a0acabc7cb246ac3faccf85cf112738fbcc1ec9e5ed7fc",
+  "promoted_with_mean_loss": 28836030.8,
+  "seeds_per_instance": 15
+ }
+]

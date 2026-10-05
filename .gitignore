@@ -1,0 +1,5 @@
+__pycache__/
+*.exe
+build/
+data/
+instances.json
